@@ -7,7 +7,7 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 
 ## Índice
 
-[Meus Certificados do Bootcamp](certificados/)
+[Meus Certificados do Bootcamp](certificados/) </br>
 [Meus Exercícios do Bootcamp](exercicios/)
 
 ## Links Úteis
