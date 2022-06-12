@@ -7,16 +7,16 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 
 ## Índice
 
-1-[Meus Certificados do Bootcamp](certificados/) </br>
-2-[Meus Exercícios do Bootcamp](exercicios/)
-3-[Meus Desafios do Bootcamp](desafios/)
+[Meus Certificados do Bootcamp](certificados/) </br>
+[Meus Exercícios do Bootcamp](exercicios/)
+[Meus Desafios do Bootcamp](desafios/)
 
 ## Links Úteis
 
 # Git
 
-_[Comandos Git do básico ao avançado](https://comandosgit.github.io/) </br>
-_[Principais comandos do Git](https://www.youtube.com/watch?v=C_JkGvwMSOM)
+- [Comandos Git do básico ao avançado](https://comandosgit.github.io/) </br>
+- [Principais comandos do Git](https://www.youtube.com/watch?v=C_JkGvwMSOM)
 
 # HTML5 & CSS3
 
