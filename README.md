@@ -14,5 +14,5 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 
 # Git
 
-[Comandos Git do básico ao avançado](https://comandosgit.github.io/)
+[Comandos Git do básico ao avançado](https://comandosgit.github.io/) </br>
 [Principais comandos do Git](https://www.youtube.com/watch?v=C_JkGvwMSOM)
