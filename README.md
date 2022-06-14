@@ -19,7 +19,7 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 Segue abaixo todos os links dos desafios para a página ativa do projeto com o GitPages:
 
 1- [Desafio 01 - Recriando a página inicial do Instagram](https://gustavoferreiradeveloper.github.io/instagram-dio-master/)
-2- [Desafio 02 - Contador]()
+2- [Desafio 02 - Contador](https://gustavoferreiradeveloper.github.io/contador.javascript/)
 
 ## Git
 
