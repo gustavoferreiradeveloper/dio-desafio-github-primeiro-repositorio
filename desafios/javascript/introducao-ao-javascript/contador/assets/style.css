@@ -105,6 +105,10 @@ button:hover{
 
 }
 
+.currentNumberNegativo{
+    color: red;
+}
+
 /* Responsividade para telas menores, como as de Smartphones */
 
 @media (min-width:425px) and (max-width:768px){
