@@ -15,14 +15,14 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 
 # Links Úteis
 
-## Links de das páginas ativas
+## Links das páginas ativas
 
 Segue abaixo todos os links dos desafios para a página ativa do projeto com o GitPages:
 
-1- [Desafio - Recriando a página inicial do Instagram](https://gustavoferreiradeveloper.github.io/instagram-dio-master/) </br>
-2- [Desafio - Contador](https://gustavoferreiradeveloper.github.io/contador.javascript/) </br>
-3- [Desafio - To-Do List](https://gustavoferreiradeveloper.github.io/to-do-list/) </br>
-4- [Desafio - Comparação de Números](desafios/javascript/sintaxe-e-operadores/comparacao-de-numeros/)
+[Desafio - Recriando a página inicial do Instagram](https://gustavoferreiradeveloper.github.io/instagram-dio-master/) </br>
+[Desafio - Contador](https://gustavoferreiradeveloper.github.io/contador.javascript/) </br>
+[Desafio - To-Do List](https://gustavoferreiradeveloper.github.io/to-do-list/) </br>
+[Desafio - Comparação de Números](desafios/javascript/sintaxe-e-operadores/comparacao-de-numeros/)
 
 ## Git
 
