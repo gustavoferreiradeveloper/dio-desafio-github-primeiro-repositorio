@@ -7,11 +7,11 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 
 # Índice
 
-[Meus Certificados do Bootcamp](certificados/) </br>
-[Meus Exercícios do Bootcamp](exercicios/) </br>
-[Meus Desafios do Bootcamp](desafios/) </br>
-[Desafios em JavaScript](desafios/javascript/)</br>
-[Minhas anotações](anotacoes/)
+1- [Meus Certificados do Bootcamp](certificados/) </br>
+2- [Meus Exercícios do Bootcamp](exercicios/) </br>
+3- [Meus Desafios do Bootcamp](desafios/) </br>
+4- [Desafios em JavaScript](desafios/javascript/)</br>
+5- [Minhas anotações](anotacoes/)
 
 # Links Úteis
 
