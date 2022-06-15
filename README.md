@@ -22,6 +22,7 @@ Segue abaixo todos os links dos desafios para a página ativa do projeto com o G
 1- [Desafio - Recriando a página inicial do Instagram](https://gustavoferreiradeveloper.github.io/instagram-dio-master/) </br>
 2- [Desafio - Contador](https://gustavoferreiradeveloper.github.io/contador.javascript/) </br>
 3- [Desafio - To-Do List](https://gustavoferreiradeveloper.github.io/to-do-list/)
+4- [Desafio - Comparação de Números](desafios/javascript/sintaxe-e-operadores/comparacao-de-numeros/)
 
 ## Git
 
