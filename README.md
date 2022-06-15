@@ -10,7 +10,8 @@ A cada progresso vou documentar tudo e arquivar tudo neste repositório...
 [Meus Certificados do Bootcamp](certificados/) </br>
 [Meus Exercícios do Bootcamp](exercicios/) </br>
 [Meus Desafios do Bootcamp](desafios/) </br>
-[Desafios em JavaScript](desafios/javascript/)
+[Desafios em JavaScript](desafios/javascript/)</br>
+[Minhas anotações](anotacoes/)
 
 # Links Úteis
 
@@ -31,3 +32,9 @@ Segue abaixo todos os links dos desafios para a página ativa do projeto com o G
 
 - [HTML básico](https://www.w3schools.com/html/)
 - [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## JavaScript
+
+- [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+- [Minhas anotações durante o curso](anotacoes/anotacoes-javascript.odt)
