@@ -1,0 +1,152 @@
+/* Fonts importadas */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;500&display=swap');
+
+/* Reset do CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Início da estilização e alinhamento dos filhos dentro do body */
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #292929;
+}
+
+/* Seletor para aplicação de efeito vidro, desfocando o fundo e evidênciando a aplicação */
+.efeito-vidro{
+    margin: 100px;
+    padding: 50px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.082);
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.068);
+}
+
+/* Cabeçalho */
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2em;
+    background-color: #000000;
+    padding: 10px 10px 10px 30px;
+    color: #dbb300;
+    border-radius: 10px;
+    background-color: #000000;
+}
+
+span{
+    color: #000000;
+    background-color: #dbb300;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Conteúdo */
+
+.content{
+    width: 80%;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+/* Seção dos botões */
+section{
+    display: flex;
+    margin-top: 50px;
+}
+
+/* Div do número entre os botões */
+#currentNumber{
+    width: 100px;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+    background-color: #dbb300;
+    border: 5px solid #000000;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #000000;
+    box-shadow:  2px 2px 4px #ffdddd56, -2px -2px 4px #ffffff57;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+button:hover{
+    background-color: #a3a3a3;
+    color: #dbb300;
+    border: 5px solid #dbb300;
+    box-shadow:  2px 2px 4px #ffdddd56,
+    -2px -2px 4px #ffffff57;
+
+}
+
+.currentNumberNegativo{
+    color: red;
+}
+
+/* Responsividade para telas menores, como as de Smartphones */
+
+@media (min-width:425px) and (max-width:768px){
+    h1{
+        width: 100vw;
+        text-align: center;
+        border-radius: 5px;
+        padding: 20px 0;
+
+    }
+
+    .efeito-vidro{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    justify-content: space-evenly;
+    }
+}
+
+@media (max-width:425px){
+    h1{
+        font-size: 1.5em;
+        width: 100vw;
+        text-align: center;
+        border-radius: 5px;
+        padding: 20px 0;
+
+    }
+
+    .efeito-vidro{
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        justify-content: space-evenly;
+        }
+
+    .content{
+        width: 80vw;
+        font-size: 1em;
+    }
+}
